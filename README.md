@@ -1,16 +1,29 @@
-## Hi there 👋
+# Daniel J.
 
-<!--
-**daniellrck3-hash/daniellrck3-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer in progress, focused on building clean, reliable and well-structured interfaces.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus
+- Responsive design
+- UI structure & organization
+- Performance optimization
+- Clean and maintainable code
+
+## 🌍 Career Vision
+Working towards international opportunities — remote or on-site —  
+building strong foundations and delivering consistent results.
+
+## 📈 Currently Improving
+- JavaScript depth
+- Real-world projects
+- Code scalability
+- Problem-solving skills
+
+---
+
+Consistency over hype.
+Long-term growth over shortcuts.
