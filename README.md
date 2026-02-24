@@ -27,3 +27,7 @@ building strong foundations and delivering consistent results.
 
 Consistency over hype.
 Long-term growth over shortcuts.
+
+## 🐍 Contributions
+
+![Snake animation](https://github.com/daniellrck3-hash/snakesnake/blob/output/github-contribution-grid-snake-dark.svg)
